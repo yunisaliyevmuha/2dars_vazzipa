@@ -1,0 +1,204 @@
+/* header */
+
+.header {
+  background: var(--light-cream, #fff7f0);
+  margin-bottom: 70px;
+  margin-top: 34px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-logo {
+  width: 64px;
+  height: 64px;
+}
+
+
+
+.disegn-wrapper {
+  margin-bottom: 68px;
+}
+
+.title-text {
+  margin-bottom: 40px;
+}
+
+.title {
+  color: var(--black, #030303);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text {
+  color: var(--medium-brown, #7a746e);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.disegn-img {
+  padding-top: 40px;
+  display: flex;
+  gap: 24px;
+}
+
+.design-item2 {
+  padding-bottom: 24px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.design-list-3 {
+  position: relative;
+}
+
+.design-item-5 {
+  position: absolute;
+  bottom: 0px;
+}
+/* design-section-end */
+
+/* work-section */
+
+.work-container {
+  padding-top: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 44px;
+}
+
+.title-work {
+  color: var(--black, #030303);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text-work {
+  color: var(--medium-brown, #7a746e);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.item-work-2 {
+  padding-top: 32px;
+}
+/* work-end */
+
+/* my-work */
+
+.my-work-container {
+  padding-top: 44px;
+  margin-bottom: 88px;
+}
+
+.my-work-title {
+  color: var(--black, #030303);
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Plus Jakarta Sans;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: center;
+}
+
+.my-work-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding-top: 56px;
+  padding-bottom: 56px;
+  background-attachment: fixed;
+}
+
+.strelka {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  
+}
+
+
+.container-book {
+  border-radius: 10px;
+  background: var(--black, #030303);
+  width: 1110px;
+  height: 320px;
+  flex-shrink: 0;
+}
+
+.book-item {
+  padding-top: 81px;
+}
+
+.book-item-1 {
+  margin-top: 25px;
+}
+
+.book-title {
+  color: var(--light-cream, #fff7f0);
+  font-family: Plus Jakarta Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.book-text {
+  color: var(--light-cream, #fff7f0);
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.book-item-2 {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: -110px;
+  margin-left: 95px;
+}
+
+
+
+.footer {
+  background: var(--light-cream, #fff7f0);
+  margin-top: 56px;
+}
+
+.footer-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-logo {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 25px;
+}
